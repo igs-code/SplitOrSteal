@@ -52,7 +52,7 @@ int main()
   {
     cout<<"Sorry, you were both greedy and chose to steal. Neither of you "
         <<"win a prize and go home with NOTHING!\n";
-    cout << "Would you like to play again?"
+    cout << "Would you like to play again?\n";
   }
 
 
